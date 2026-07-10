@@ -7,18 +7,18 @@ The primary objective of this project is to develop a deep learning model that c
 **Project Timeline**
 
 - **Module 2 (end of Week 2):**
-  - Instructor assigns students to teams of **2–3 members**.
-  - Students may use **Canvas, USD Email, or Slack** to connect with prospective teammates.
+  - Instructor assigns students to teams of 2-3 members.
+  - Students may use Canvas, USD Email, or Slack to connect with prospective teammates.
 
 - **Module 4 (end of Week 4):**
-  - One representative from each team submits the **Team Project Status Update Form**.
+  - One representative from each team submits the Team Project Status Update Form.
 
 - **Module 7 (end of Week 7):**
   - Submit all final project deliverables:
     - Project Report
     - Project Notebook
 
-> **Important:** No extensions will be granted for the final project under any circumstances. Projects submitted after the deadline will **not** be graded.
+**Important:** No extensions will be granted for the final project under any circumstances. Projects submitted after the deadline will **not** be graded.
 
 **Dataset**
 
