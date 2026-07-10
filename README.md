@@ -51,5 +51,4 @@ The proposed project aims to use deep learning techniques to accurately predict 
 **Power Usage for this Project**
 
 You can use Google Colab GPU and TPU in case you need more computation power. Change your runtime in Google Colab notebook to GPU or TPU.
-Another option is to buy the subscription in case you need more computational power (recommended).
-Please follow this link to do so: Google Colab Pro+
+Another option is to buy the subscription in case you need more computational power (Google Colab Pro+ recommended).
