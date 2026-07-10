@@ -6,13 +6,21 @@ The primary objective of this project is to develop a deep learning model that c
 
 **Project Timeline**
 
-Module 2 (by the end of Week 2): The course instructor will group students into teams of two to three members. Canvas, USD Email, or Slack can be used to find prospective team members.
-Module 4 (by the end of Week 4): Each team's representative will need to submit the "Team Project Status Update Form." 
-Module 7 (by the end of Week 7): Each team should submit deliverables for the course project in the final week:
-Project Report
-Project Notebook
-It is critical to note that no extensions will be given for any of the final projects' due dates for any reason, and final projects submitted after the final due date will not be graded.
-Dataset
+- **Module 2 (end of Week 2):**
+  - Instructor assigns students to teams of **2–3 members**.
+  - Students may use **Canvas, USD Email, or Slack** to connect with prospective teammates.
+
+- **Module 4 (end of Week 4):**
+  - One representative from each team submits the **Team Project Status Update Form**.
+
+- **Module 7 (end of Week 7):**
+  - Submit all final project deliverables:
+    - Project Report
+    - Project Notebook
+
+> **Important:** No extensions will be granted for the final project under any circumstances. Projects submitted after the deadline will **not** be graded.
+
+**Dataset**
 
 The project will use a dataset consisting of musical scores from various composers. The datasetDownload dataset will contain MIDI files and sheet music of compositions from well-known classical composers like Bach, Beethoven, Chopin, Mozart, Schubert, etc. The dataset should be labeled with the name of the composer for each score.
 
