@@ -1,10 +1,10 @@
 # MS_AAI_511_Neural_Networks_DL
 
-# Objective
+**Objective**
 
 The primary objective of this project is to develop a deep learning model that can predict the composer of a given musical score accurately. The project aims to accomplish this objective by using two deep learning techniques: Long Short-Term Memory (LSTM) and Convolutional Neural Network (CNN).
 
-# Project Timeline
+**Project Timeline**
 
 Module 2 (by the end of Week 2): The course instructor will group students into teams of two to three members. Canvas, USD Email, or Slack can be used to find prospective team members.
 Module 4 (by the end of Week 4): Each team's representative will need to submit the "Team Project Status Update Form." 
@@ -16,7 +16,7 @@ Dataset
 
 The project will use a dataset consisting of musical scores from various composers. The datasetDownload dataset will contain MIDI files and sheet music of compositions from well-known classical composers like Bach, Beethoven, Chopin, Mozart, Schubert, etc. The dataset should be labeled with the name of the composer for each score.
 
-# Methodology
+**Methodology**
 
 The proposed project will be implemented using the following steps:
 
@@ -39,7 +39,7 @@ Conclusion
 
 The proposed project aims to use deep learning techniques to accurately predict the composer of a given musical score. The project will be implemented using LSTM and CNN architectures and will involve data pre-processing, feature extraction, model building, training, and evaluation. The final model can be used by novice musicians, listeners, and music enthusiasts to identify the composer of a musical piece accurately.
 
-# Power Usage for this Project
+**Power Usage for this Project**
 
 You can use Google Colab GPU and TPU in case you need more computation power. Change your runtime in Google Colab notebook to GPU or TPU.
 Another option is to buy the subscription in case you need more computational power (recommended).
