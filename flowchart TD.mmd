@@ -1,0 +1,12 @@
+flowchart TD
+    A[1. Project Setup] --> B[2. Load Data and Exploration]
+    B --> C[3. Representation and Preprocessing]
+    C --> D[4. Feature Engineering]
+    D --> F[5. Deep Model Development<br/>LSTM and CNN Tracks<br/>Training, Validation, and Error Analysis]
+    F --> I[6. Model Selection and Optimization]
+    I --> J[7. Packaging and Reproducibility]
+    J --> K[8. Final Deliverables]
+
+    F -. Compare architectures .-> I
+    F -. Feedback loop for improvements .-> C
+    I -. Retune if needed .-> F

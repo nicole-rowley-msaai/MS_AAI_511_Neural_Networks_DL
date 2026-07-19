@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local extracted dataset and generated artifacts
+midiclassics_extracted/
+artifacts/preprocessed/
+
+# Large local archives (keep local only)
+*.zip
