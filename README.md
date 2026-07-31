@@ -23,7 +23,11 @@ The primary objective of this project is to develop a deep learning model that c
 **Dataset**
 
 The dataset contains the midi files of compositions from well-known classical composers like Bach, Beethoven, Chopin, and Mozart. The dataset should be labeled with the name of the composer for each score. Please only do your prediction only for the below composers:
-1-Bach 2-Beethoven 3-Chopin 4-Mozart
+
+1. Bach 
+2. Beethoven 
+3. Chopin 
+4. Mozart
 
 **Methodology**
 
