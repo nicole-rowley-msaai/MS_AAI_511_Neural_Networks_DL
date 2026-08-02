@@ -2,9 +2,19 @@
 __pycache__/
 *.py[cod]
 
+# Virtual environments and editor settings
+.venv/
+venv/
+AAI511-env/
+.vscode/
+
 # Local extracted dataset and generated artifacts
 midiclassics_extracted/
-artifacts/preprocessed/
+artifacts/
+
+# Local secrets and project documents
+kaggleAPI.json
+*.docx
 
 # Large local archives (keep local only)
 *.zip
