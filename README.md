@@ -52,8 +52,3 @@ This deliverable will be exported from a Jupyter Notebook and submitted as a PDF
 **Conclusion**
 
 The proposed project aims to use deep learning techniques to accurately predict the composer of a given musical score. The project will be implemented using LSTM and CNN architectures and will involve data pre-processing, feature extraction, model building, training, and evaluation. The final model can be used by novice musicians, listeners, and music enthusiasts to identify the composer of a musical piece accurately.
-
-**Power Usage for this Project**
-
-You can use Google Colab GPU and TPU in case you need more computation power. Change your runtime in Google Colab notebook to GPU or TPU.
-Another option is to buy the subscription in case you need more computational power (Google Colab Pro+ recommended).
